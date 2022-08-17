@@ -4,6 +4,8 @@
 
 # front docker サーバー起動
 
-1. docker-compose build
-2. docker-compose run app npm install
-3. docker-compose up -d
+1. git clone を行う
+2. 作業ディレクトリを frontend に移動
+3. docker-compose build
+4. docker-compose run app npm install
+5. docker-compose up -d
